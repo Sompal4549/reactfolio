@@ -2,7 +2,7 @@ const INFO = {
 	main: {
 		title: "Reactfolio by Sompal",
 		name: "Sompal",
-		email: "mail@somfrontenddeveloper@gmail.com",
+		email: "somfrontenddeveloper@gmail.com",
 		logo: "../logo.png",
 	},
 
