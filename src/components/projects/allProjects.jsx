@@ -25,7 +25,7 @@ const AllProjects = () => {
 				<div className="all-projects-project" key={index}>
 					<Project
 						logo={project.logo}
-						title={project.title}
+						title={project.name}
 						description={project.description}
 						linkText={project.linkText}
 						link={project.url}
