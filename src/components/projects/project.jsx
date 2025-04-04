@@ -14,7 +14,11 @@ const Project = (props) => {
 				<Link to={link}>
 					<div className="project-container">
 						<div className="project-logo">
-							<img src={logo} alt="logo" />
+							{/* <img src={logo} alt="logo" /> */}
+							<img
+								src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"
+								alt="log"
+							/>
 						</div>
 						<div className="project-title">{title}</div>
 						<div className="project-description">{description}</div>
